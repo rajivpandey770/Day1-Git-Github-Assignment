@@ -25,6 +25,20 @@ Even after marking the pod for deletion, the API server kept waiting because the
 - `Renamed Readme.txt to README.md`
 - `Updated scenario and environment section`
 
-## 🧪 Development Branch Note
+##  Development Branch Note
 This content is added from the `feature/rajiv` branch.
+
+---
+
+##  Feature Branch: rajiv
+
+This section was added from the `feature/rajiv` branch as part of the Git branching practice.
+
+- Demonstrated how to create and switch between branches
+- Made updates only in the feature branch before merging
+- Helps to isolate new features without affecting the `main` code
+
+📌 Command used:
+
+git checkout -b feature/rajiv
 
