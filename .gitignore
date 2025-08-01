@@ -1,0 +1,26 @@
+# Node.js
+node_modules/
+.env
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Python (if ever used)
+__pycache__/
+*.pyc
+
+# IDEs & Editors
+.vscode/
+.idea/
+
+# OS or temp files
+*.swp
+*.bak
+
